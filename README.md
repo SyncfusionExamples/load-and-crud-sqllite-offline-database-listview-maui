@@ -1,5 +1,4 @@
-# load-and-crud-sqllite-offline-database-listview-maui
-
+# How to load the data from SQLite offline database in .NET MAUI ListView (SfListView)?
 This demo explains about how to load the data from SQLite offline database in SfListView.
 
 ## Sample
